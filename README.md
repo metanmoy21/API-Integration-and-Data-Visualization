@@ -77,3 +77,8 @@ This kind of dashboard is not just a fun project—it has practical uses too. Fo
 **Conclusion**
 
 In short, this script takes raw weather data from an API and turns it into a simple, readable, and visually appealing dashboard. By combining Requests, Pandas, Matplotlib, and Seaborn, it shows how programming can make complex data easy to understand. With a few modifications, it could be extended to include multi-city comparisons, forecasts, or historical trends, making it even more practical in real-world applications.
+
+
+**Output** -
+
+<img width="1169" height="799" alt="Image" src="https://github.com/user-attachments/assets/7233b8ed-03f4-4af8-a926-7fcf526877bc" />
